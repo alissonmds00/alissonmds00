@@ -1,7 +1,7 @@
 <h1>Olá, meu nome é Alisson Matias</h1>
 
 <h2>Sobre mim</h2>
-  <h3>Atualmente sou um desenvolvedor júnior backend, focado em desenvolvimento de APIs Rest, mas com interesse e conhecimento no front end também.</h3> 
+  <h3>Atualmente sou um desenvolvedor júnior backend, focado em desenvolvimento de APIs Rest</h3> 
   -  🎓 Graduando em Sistemas de Informação na <a href="https://www.ufba.br" target="_blank" style="text-decoration: none; color: inherit;">UFBA</a> - Universidade Federal da Bahia<br>
   -  🕴 Linkedin: <a href="https://www.linkedin.com/in/alisson-matias" target="_blank" style="text-decoration: none; color: inherit;">Alisson Matias</a><br>
   -  🌎🇧🇷
@@ -28,7 +28,7 @@
   <img align="center" alt="Alisson-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
 
-  <img align="center" alt="Alisson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alisson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   </div>
   
 
